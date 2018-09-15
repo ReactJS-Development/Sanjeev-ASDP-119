@@ -1,0 +1,12 @@
+.container1 {
+    background-color: pink;
+    width: 300px;
+    border: 25px solid blue;
+    padding: 25px;
+    margin-left: 500px;
+    margin-bottom: 30px;
+  }
+
+  .background {
+    background-color:  lightblue;
+  }
